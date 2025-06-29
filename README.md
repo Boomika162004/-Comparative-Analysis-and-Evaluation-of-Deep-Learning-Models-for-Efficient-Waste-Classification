@@ -1,0 +1,2 @@
+# -Comparative-Analysis-and-Evaluation-of-Deep-Learning-Models-for-Efficient-Waste-Classification
+ Built a deep learning-based classification system  for segregating recyclable and non-recyclable waste using five CNN architectures across three datasets. DenseNet121 achieved  highest accuracy (99.8% training, 87.36% validation). Applied data augmentation, class balancing, and feature extraction for  robust performance. 
