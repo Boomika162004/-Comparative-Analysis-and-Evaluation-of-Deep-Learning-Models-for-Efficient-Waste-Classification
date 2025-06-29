@@ -43,6 +43,7 @@ This repository hosts the source code, datasets, results, and methodology behind
 
 waste-classification/
 │
+
 ├── data/ # Raw and preprocessed datasets
 
 
@@ -51,9 +52,13 @@ waste-classification/
 ├── src/ # Scripts for training, testing, evaluation
 
 ├── notebooks/ # Jupyter notebooks for experimentation
+
 ├── results/ # Evaluation metrics, plots
+
 ├── figures/ # Graphs used in the paper
+
 ├── paper/ # Ecobin.pdf and citation
+
 └── README.md # This file
 
 
