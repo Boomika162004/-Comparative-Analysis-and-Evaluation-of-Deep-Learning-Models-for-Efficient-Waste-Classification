@@ -42,6 +42,7 @@ This repository hosts the source code, datasets, results, and methodology behind
 ## 📂 Folder Structure
 
 waste-classification/
+
 │
 
 ├── data/ # Raw and preprocessed datasets
